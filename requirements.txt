@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+joblib
+openpyxl
+
+#streamlit run src/app/app.py
